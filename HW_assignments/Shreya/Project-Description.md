@@ -10,7 +10,7 @@ TA Optimization Tool
 
 ## Project Topic Area
 
-An individual senior design project to build a constraint-based TA scheduling optimization tool.  
+An individual senior design project to build a constraint-based TA scheduling optimization tool.
 The tool uses Python and Google OR-Tools' CP-SAT solver to automatically assign TAs to course
 sections based on:
 - TA availability and class schedules  
