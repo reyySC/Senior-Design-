@@ -6,3 +6,17 @@ This repository contains all documentation, assignments, and project code for my
 
 ### Assignment 1 – Professional Biography
 [Click here](HW_assignments/Shreya/Assignment1.md)
+
+## Team & Project Abstract
+
+Team: Shreya Chandra  
+Advisor: Jeremy Hill
+
+Abstract: This project develops a Python-based TA Scheduling Optimization Tool for the
+Engineering Department. The tool ingests TA availability, skills, and preferences and
+uses Google OR-Tools CP-SAT to generate fair, constraint-satisfying TA assignments to
+course sections, dramatically reducing manual scheduling time.
+
+## Project Description (Assignment #2)
+
+See: [Project-Description.md](Project-Description.md)
