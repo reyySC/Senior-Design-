@@ -17,6 +17,6 @@ Engineering Department. The tool ingests TA availability, skills, and preference
 uses Google OR-Tools CP-SAT to generate fair, constraint-satisfying TA assignments to
 course sections, dramatically reducing manual scheduling time.
 
-## Project Description (Assignment #2)
+### Assignment 2 -  Project Description
 
-See: [Project-Description.md](Project-Description.md)
+[Project-Description.md](Project-Description.md)
