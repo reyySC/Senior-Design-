@@ -23,6 +23,11 @@ course sections, dramatically reducing manual scheduling time.
 
 ### Assignment 4 -  User Stories + Design Diagrams 
 
+### User Stories
+- [User_Stories.md](./User_Stories.md)
 
 
+### Design Diagrams (PDF)
+Download the combined PDF of the design diagrams:  
+[Design_Diagrams/Design_Diagrams.pdf](./Design_Diagrams/Design_Diagrams.pdf)
 
