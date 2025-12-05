@@ -20,3 +20,18 @@ course sections, dramatically reducing manual scheduling time.
 ### Assignment 2 -  Project Description
 
 [Project-Description.md](Project-Description.md)
+
+### Assignment 4 -  User Stories + Design Diagrams 
+
+(User_Stories.md) 
+
+### Design Diagram 0
+![Design Diagram 0](images/Diagram1.png)
+
+### Design Diagram 1
+![Design Diagram 1](images/Diagram2.png)
+
+### Design Diagram 2
+![Design Diagram 2](images/Diagram3.png)
+
+
